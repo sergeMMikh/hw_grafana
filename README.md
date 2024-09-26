@@ -46,6 +46,17 @@
 - количество свободной оперативной памяти;
 - количество места на файловой системе.
 
+**Решение**
+
+- утилизация CPU для nodeexporter (в процентах, 100-idle)</br>
+   <img src="images/Task_2_1.png" alt="Task_2_1.png" width="500" height="auto"></br>
+- CPULA 1/5/15</br>
+   <img src="images/Task_2_2.png" alt="Task_2_2.png" width="500" height="auto"></br>
+- количество свободной оперативной памяти</br>
+   <img src="images/Task_2_3.png" alt="Task_2_3.png" width="500" height="auto"></br>
+- количество места на файловой системе</br>
+   <img src="images/Task_2_4.png" alt="Task_2_4.png" width="500" height="auto"></br>
+
 Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
 ## Задание 3
